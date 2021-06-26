@@ -1,2 +1,2 @@
 # hr-python
-creating hr manager using python
+created hr manager using python
